@@ -10,7 +10,7 @@ Passionate about development, Always willing to learn more and more
 function Gelton {
   this.name = "Gelton Aureliano"
   this.acknowledgements = "Full-stack Developer"
-  this.timeExperience = "+ 5 years"
+  this.timeExperience = "+ 6 years"
   this.nationality = "Brazilian"
 }
 ```
