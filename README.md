@@ -8,8 +8,8 @@ Passionate about development, Always willing to learn more and more!
 ```javascript
 const Gelton = {
   name: "Gelton Aureliano",
-  office: "Full-stack Developer",
-  timeExperience: "+ 6 years",
+  office: "Senior Software Engineer",
+  timeExperience: "+ 8 years",
   nationality: "Brazilian",
   status: "Always available to talk"
 }
