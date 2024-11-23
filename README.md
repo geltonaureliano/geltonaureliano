@@ -9,7 +9,7 @@ Passionate about development, Always willing to learn more and more!
 const Gelton = {
   name: "Gelton Aureliano",
   office: "Senior Software Engineer",
-  timeExperience: "+ 8 years",
+  timeExperience: "+ 9 years",
   nationality: "Brazilian",
   status: "Always available to talk"
 }
